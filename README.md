@@ -1,8 +1,16 @@
 ![logo_bdv](./src/assets/logonuevo.png)
 
-# Convertidor IDI
+# App Tec
 
-Aplicación enfocada a operativos de crédito donde no tienen acceso al servidor local y deben cargar manualmente el valor del IDI y $. También sirve para convertir montos de una moneda a otra basado en el valor mas reciente encontrado en la base de datos.
+Aplicación de escritorio con distintas funcionalidades.
+
+Actualmente:
+
+- Agregar información a tablas específicas de la base de datos.
+
+Próximamente
+
+- Convertidor Bs - Dolar - UVC
 
 * Electron
 * React
